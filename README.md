@@ -18,4 +18,5 @@
 
 ![](https://note.youdao.com/yws/api/personal/file/WEB61ec77b443d9a131410ae795f1830242?method=download&shareKey=1dda9556060cb993b96bdab54ed6963f)
 
-<video src="https://www.bilibili.com/video/BV11a411A7oM" width="800px" height="600px" controls="controls"></video>
+## 视频展示
+[展示视频](https://www.bilibili.com/video/BV11a411A7oM)
